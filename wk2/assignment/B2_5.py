@@ -4,8 +4,8 @@ histo_data = []
 L = [[0.25, 0.25], [0.75, 0.25], [0.25, 0.75], [0.75, 0.75]]
 sigma = 0.1197
 sigma_sq = sigma ** 2
-delta = 0.0001
-n_steps = 10000000
+delta = 0.0006
+n_steps = 25000000
 for steps in range(n_steps):
     a = random.choice(L)
     b = [a[0] + random.uniform(-delta, delta), a[1] + random.uniform(-delta, delta)]
