@@ -1,4 +1,4 @@
-import math, random
+import math, random, pylab
 
 def V_sph(dim):
     return math.pi ** (dim / 2.0) / math.gamma(dim / 2.0 + 1.0)
@@ -26,8 +26,26 @@ def markov_chain_qd(d, n_trials, delta=0.1):
 
     return 2 * n_hits / float(n_trials)
 
-print "Q(4), analytical:  ", Q(4)
-print "Q(4), approximate: ", markov_chain_qd(4, 10000000)
-print ""
-print "Q(200), analytical:  ", Q(200)
-print "Q(200), approximate: ", markov_chain_qd(200, 10000000)
+Qapproxs = []
+for d in range(1, 200):
+    Qapproxs.append(markov_chain_qd(d+1, 1000000))
+
+V_sph_approxs = []
+V_sph_analyts = []
+V_sph_d = 2.0
+ds = []
+for d in range(0, 200-1):
+    V_sph_d *= Qapproxs[d]
+    V_sph_approxs.append(V_sph_d)
+    V_sph_analyts.append(V_sph(d+2))
+    ds.append(d+2)
+
+pylab.plot(ds, V_sph_analyts, 'k-', ds, V_sph_approxs, 'kx')
+pylab.yscale('log')
+pylab.xlabel('d')
+pylab.ylabel(r'$V_{sph}(d)$')
+pylab.title('Volume of unit sphere in d dimensions')
+pylab.legend(['analytical', 'approximate'])
+pylab.grid()
+pylab.savefig('markov_sphere.png')
+pylab.show()

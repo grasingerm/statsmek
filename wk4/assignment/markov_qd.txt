@@ -1,0 +1,807 @@
+check results
+2 d
+	analytical:   1.57079632679
+	approximate:  1.56968
+	difference:   0.0011163267949
+3 d
+	analytical:   1.33333333333
+	approximate:  1.34918
+	difference:   0.0158466666667
+4 d
+	analytical:   1.1780972451
+	approximate:  1.1981
+	difference:   0.0200027549038
+5 d
+	analytical:   1.06666666667
+	approximate:  1.06956
+	difference:   0.00289333333333
+6 d
+	analytical:   0.981747704247
+	approximate:  0.98464
+	difference:   0.00289229575319
+7 d
+	analytical:   0.914285714286
+	approximate:  0.91616
+	difference:   0.00187428571429
+8 d
+	analytical:   0.859029241216
+	approximate:  0.87932
+	difference:   0.020290758784
+9 d
+	analytical:   0.812698412698
+	approximate:  0.83446
+	difference:   0.0217615873016
+10 d
+	analytical:   0.773126317094
+	approximate:  0.77108
+	difference:   0.00204631709436
+11 d
+	analytical:   0.738816738817
+	approximate:  0.74038
+	difference:   0.00156326118326
+12 d
+	analytical:   0.708699124003
+	approximate:  0.7117
+	difference:   0.00300087599683
+13 d
+	analytical:   0.681984681985
+	approximate:  0.6803
+	difference:   0.00168468198468
+14 d
+	analytical:   0.658077758003
+	approximate:  0.67204
+	difference:   0.0139622419971
+15 d
+	analytical:   0.636519036519
+	approximate:  0.64246
+	difference:   0.00594096348096
+16 d
+	analytical:   0.616947898128
+	approximate:  0.61892
+	difference:   0.00197210187224
+17 d
+	analytical:   0.599076740253
+	approximate:  0.61098
+	difference:   0.0119032597468
+18 d
+	analytical:   0.582673014898
+	approximate:  0.59204
+	difference:   0.00936698510156
+19 d
+	analytical:   0.567546385503
+	approximate:  0.56574
+	difference:   0.00180638550304
+20 d
+	analytical:   0.553539364154
+	approximate:  0.5663
+	difference:   0.0127606358465
+21 d
+	analytical:   0.540520367146
+	approximate:  0.53
+	difference:   0.0105203671458
+22 d
+	analytical:   0.528378483965
+	approximate:  0.52754
+	difference:   0.000838483964719
+23 d
+	analytical:   0.517019481618
+	approximate:  0.51696
+	difference:   5.9481617678e-05
+24 d
+	analytical:   0.5063627138
+	approximate:  0.51054
+	difference:   0.00417728620048
+25 d
+	analytical:   0.496338702353
+	approximate:  0.49574
+	difference:   0.000598702352971
+26 d
+	analytical:   0.486887224807
+	approximate:  0.4754
+	difference:   0.0114872248072
+27 d
+	analytical:   0.477955787451
+	approximate:  0.47748
+	difference:   0.000475787451009
+28 d
+	analytical:   0.46949839535
+	approximate:  0.47444
+	difference:   0.00494160465017
+29 d
+	analytical:   0.461474553401
+	approximate:  0.46482
+	difference:   0.00334544659903
+30 d
+	analytical:   0.453848448838
+	approximate:  0.45262
+	difference:   0.00122844883817
+31 d
+	analytical:   0.446588277485
+	approximate:  0.44484
+	difference:   0.00174827748481
+32 d
+	analytical:   0.439665684812
+	approximate:  0.43266
+	difference:   0.00700568481198
+33 d
+	analytical:   0.433055299379
+	approximate:  0.43254
+	difference:   0.000515299379213
+34 d
+	analytical:   0.426734341141
+	approximate:  0.42672
+	difference:   1.43411410372e-05
+35 d
+	analytical:   0.420682290826
+	approximate:  0.42752
+	difference:   0.00683770917448
+36 d
+	analytical:   0.414880609443
+	approximate:  0.41526
+	difference:   0.000379390557325
+37 d
+	analytical:   0.409312499182
+	approximate:  0.41568
+	difference:   0.00636750081841
+38 d
+	analytical:   0.403962698668
+	approximate:  0.41638
+	difference:   0.0124173013321
+39 d
+	analytical:   0.398817306895
+	approximate:  0.40292
+	difference:   0.00410269310512
+40 d
+	analytical:   0.393863631201
+	approximate:  0.40252
+	difference:   0.00865636879883
+41 d
+	analytical:   0.389090055507
+	approximate:  0.39396
+	difference:   0.0048699444928
+42 d
+	analytical:   0.384485925696
+	approximate:  0.38648
+	difference:   0.00199407430362
+43 d
+	analytical:   0.380041449565
+	approximate:  0.3824
+	difference:   0.00235855043483
+44 d
+	analytical:   0.375747609203
+	approximate:  0.37842
+	difference:   0.00267239079672
+45 d
+	analytical:   0.371596084019
+	approximate:  0.37794
+	difference:   0.00634391598072
+46 d
+	analytical:   0.367579182916
+	approximate:  0.37486
+	difference:   0.00728081708375
+47 d
+	analytical:   0.363689784359
+	approximate:  0.36392
+	difference:   0.000230215640705
+48 d
+	analytical:   0.359921283272
+	approximate:  0.36494
+	difference:   0.00501871672783
+49 d
+	analytical:   0.356267543862
+	approximate:  0.3617
+	difference:   0.00543245613783
+50 d
+	analytical:   0.352722857607
+	approximate:  0.36068
+	difference:   0.00795714239328
+51 d
+	analytical:   0.349281905747
+	approximate:  0.35518
+	difference:   0.00589809425278
+52 d
+	analytical:   0.34593972573
+	approximate:  0.3538
+	difference:   0.00786027427033
+53 d
+	analytical:   0.34269168111
+	approximate:  0.34482
+	difference:   0.00212831888952
+54 d
+	analytical:   0.339533434512
+	approximate:  0.3425
+	difference:   0.00296656548755
+55 d
+	analytical:   0.336460923272
+	approximate:  0.33798
+	difference:   0.00151907672789
+56 d
+	analytical:   0.333470337468
+	approximate:  0.33684
+	difference:   0.00336966253241
+57 d
+	analytical:   0.330558100057
+	approximate:  0.33046
+	difference:   9.81000568102e-05
+58 d
+	analytical:   0.327720848891
+	approximate:  0.32724
+	difference:   0.000480848890561
+59 d
+	analytical:   0.324955420395
+	approximate:  0.32318
+	difference:   0.00177542039483
+60 d
+	analytical:   0.322258834742
+	approximate:  0.32544
+	difference:   0.00318116525762
+61 d
+	analytical:   0.319628282356
+	approximate:  0.32448
+	difference:   0.00485171764443
+62 d
+	analytical:   0.317061111601
+	approximate:  0.32148
+	difference:   0.00441888839862
+63 d
+	analytical:   0.314554817556
+	approximate:  0.3146
+	difference:   4.5182443724e-05
+64 d
+	analytical:   0.312107031733
+	approximate:  0.314
+	difference:   0.00189296826739
+65 d
+	analytical:   0.309715512671
+	approximate:  0.31802
+	difference:   0.00830448732921
+66 d
+	analytical:   0.307378137312
+	approximate:  0.30934
+	difference:   0.00196186268758
+67 d
+	analytical:   0.305092893079
+	approximate:  0.31468
+	difference:   0.00958710692131
+68 d
+	analytical:   0.302857870587
+	approximate:  0.30414
+	difference:   0.00128212941277
+69 d
+	analytical:   0.300671256947
+	approximate:  0.30682
+	difference:   0.00614874305288
+70 d
+	analytical:   0.298531329579
+	approximate:  0.30054
+	difference:   0.00200867042116
+71 d
+	analytical:   0.296436450511
+	approximate:  0.29646
+	difference:   2.35494887568e-05
+72 d
+	analytical:   0.294385061112
+	approximate:  0.30176
+	difference:   0.00737493888753
+73 d
+	analytical:   0.292375677217
+	approximate:  0.29672
+	difference:   0.00434432278343
+74 d
+	analytical:   0.290406884611
+	approximate:  0.29306
+	difference:   0.00265311538905
+75 d
+	analytical:   0.288477334854
+	approximate:  0.2881
+	difference:   0.000377334853681
+76 d
+	analytical:   0.286585741392
+	approximate:  0.29036
+	difference:   0.00377425860761
+77 d
+	analytical:   0.284730875959
+	approximate:  0.28902
+	difference:   0.00428912404052
+78 d
+	analytical:   0.282911565221
+	approximate:  0.28554
+	difference:   0.00262843477931
+79 d
+	analytical:   0.281126687656
+	approximate:  0.28858
+	difference:   0.00745331234381
+80 d
+	analytical:   0.279375170655
+	approximate:  0.28168
+	difference:   0.00230482934457
+81 d
+	analytical:   0.277655987809
+	approximate:  0.28588
+	difference:   0.00822401219141
+82 d
+	analytical:   0.275968156379
+	approximate:  0.27836
+	difference:   0.00239184362085
+83 d
+	analytical:   0.274310734943
+	approximate:  0.27852
+	difference:   0.00420926505658
+84 d
+	analytical:   0.272682821184
+	approximate:  0.2781
+	difference:   0.00541717881585
+85 d
+	analytical:   0.271083549826
+	approximate:  0.2733
+	difference:   0.00221645017356
+86 d
+	analytical:   0.269512090705
+	approximate:  0.27422
+	difference:   0.00470790929473
+87 d
+	analytical:   0.267967646955
+	approximate:  0.27642
+	difference:   0.00845235304513
+88 d
+	analytical:   0.266449453311
+	approximate:  0.27426
+	difference:   0.00781054668911
+89 d
+	analytical:   0.264956774517
+	approximate:  0.27186
+	difference:   0.00690322548282
+90 d
+	analytical:   0.26348890383
+	approximate:  0.269
+	difference:   0.00551109617034
+91 d
+	analytical:   0.26204516161
+	approximate:  0.2697
+	difference:   0.00765483838961
+92 d
+	analytical:   0.260624894005
+	approximate:  0.25972
+	difference:   0.000904894005424
+93 d
+	analytical:   0.259227471701
+	approximate:  0.26266
+	difference:   0.00343252829939
+94 d
+	analytical:   0.25785228875
+	approximate:  0.26194
+	difference:   0.00408771124995
+95 d
+	analytical:   0.256498761472
+	approximate:  0.25786
+	difference:   0.00136123852782
+96 d
+	analytical:   0.255166327409
+	approximate:  0.2557
+	difference:   0.000533672591099
+97 d
+	analytical:   0.253854444344
+	approximate:  0.2603
+	difference:   0.0064455556564
+98 d
+	analytical:   0.252562589374
+	approximate:  0.25242
+	difference:   0.000142589374116
+99 d
+	analytical:   0.251290258037
+	approximate:  0.25228
+	difference:   0.000989741962902
+100 d
+	analytical:   0.25003696348
+	approximate:  0.2535
+	difference:   0.00346303651963
+101 d
+	analytical:   0.24880223568
+	approximate:  0.24768
+	difference:   0.0011222356803
+102 d
+	analytical:   0.247585620701
+	approximate:  0.2511
+	difference:   0.00351437929884
+103 d
+	analytical:   0.246386679994
+	approximate:  0.25414
+	difference:   0.00775332000592
+104 d
+	analytical:   0.245204989733
+	approximate:  0.24618
+	difference:   0.000975010267125
+105 d
+	analytical:   0.244040140185
+	approximate:  0.2482
+	difference:   0.00415985981539
+106 d
+	analytical:   0.242891735113
+	approximate:  0.24596
+	difference:   0.00306826488725
+107 d
+	analytical:   0.241759391211
+	approximate:  0.23918
+	difference:   0.00257939121092
+108 d
+	analytical:   0.240642737565
+	approximate:  0.24288
+	difference:   0.00223726243459
+109 d
+	analytical:   0.239541415145
+	approximate:  0.24748
+	difference:   0.00793858485523
+110 d
+	analytical:   0.238455076315
+	approximate:  0.24272
+	difference:   0.00426492368518
+111 d
+	analytical:   0.237383384378
+	approximate:  0.23846
+	difference:   0.0010766156223
+112 d
+	analytical:   0.236326013133
+	approximate:  0.24624
+	difference:   0.00991398686656
+113 d
+	analytical:   0.235282646463
+	approximate:  0.24308
+	difference:   0.00779735353715
+114 d
+	analytical:   0.234252977931
+	approximate:  0.23828
+	difference:   0.00402702206949
+115 d
+	analytical:   0.233236710407
+	approximate:  0.23524
+	difference:   0.00200328959335
+116 d
+	analytical:   0.232233555707
+	approximate:  0.23616
+	difference:   0.00392644429303
+117 d
+	analytical:   0.231243234249
+	approximate:  0.23416
+	difference:   0.00291676575067
+118 d
+	analytical:   0.230265474726
+	approximate:  0.24152
+	difference:   0.0112545252736
+119 d
+	analytical:   0.229300013793
+	approximate:  0.23376
+	difference:   0.00445998620655
+120 d
+	analytical:   0.22834659577
+	approximate:  0.2365
+	difference:   0.00815340422965
+121 d
+	analytical:   0.227404972357
+	approximate:  0.22902
+	difference:   0.00161502764286
+122 d
+	analytical:   0.226474902362
+	approximate:  0.22634
+	difference:   0.000134902362398
+123 d
+	analytical:   0.225556151444
+	approximate:  0.23404
+	difference:   0.00848384855633
+124 d
+	analytical:   0.224648491859
+	approximate:  0.23108
+	difference:   0.00643150814052
+125 d
+	analytical:   0.223751702232
+	approximate:  0.22446
+	difference:   0.000708297767878
+126 d
+	analytical:   0.222865567321
+	approximate:  0.22688
+	difference:   0.00401443267909
+127 d
+	analytical:   0.221989877805
+	approximate:  0.22306
+	difference:   0.0010701221949
+128 d
+	analytical:   0.221124430076
+	approximate:  0.2235
+	difference:   0.00237556992379
+129 d
+	analytical:   0.220269026039
+	approximate:  0.22566
+	difference:   0.00539097396083
+130 d
+	analytical:   0.219423472922
+	approximate:  0.22526
+	difference:   0.00583652707822
+131 d
+	analytical:   0.218587583092
+	approximate:  0.21964
+	difference:   0.0010524169077
+132 d
+	analytical:   0.217761173884
+	approximate:  0.22316
+	difference:   0.0053988261155
+133 d
+	analytical:   0.21694406743
+	approximate:  0.21854
+	difference:   0.00159593257005
+134 d
+	analytical:   0.216136090497
+	approximate:  0.2187
+	difference:   0.0025639095027
+135 d
+	analytical:   0.215337074338
+	approximate:  0.2218
+	difference:   0.00646292566212
+136 d
+	analytical:   0.214546854538
+	approximate:  0.2183
+	difference:   0.00375314546224
+137 d
+	analytical:   0.213765270876
+	approximate:  0.21766
+	difference:   0.00389472912444
+138 d
+	analytical:   0.212992167186
+	approximate:  0.21674
+	difference:   0.00374783281396
+139 d
+	analytical:   0.212227391229
+	approximate:  0.21596
+	difference:   0.00373260877103
+140 d
+	analytical:   0.211470794563
+	approximate:  0.2151
+	difference:   0.00362920543672
+141 d
+	analytical:   0.210722232426
+	approximate:  0.2114
+	difference:   0.000677767574069
+142 d
+	analytical:   0.209981563616
+	approximate:  0.21278
+	difference:   0.00279843638435
+143 d
+	analytical:   0.209248650381
+	approximate:  0.21568
+	difference:   0.00643134961901
+144 d
+	analytical:   0.208523358313
+	approximate:  0.20972
+	difference:   0.00119664168724
+145 d
+	analytical:   0.20780555624
+	approximate:  0.2109
+	difference:   0.00309444375956
+146 d
+	analytical:   0.207095116133
+	approximate:  0.21074
+	difference:   0.00364488386746
+147 d
+	analytical:   0.206391913001
+	approximate:  0.21066
+	difference:   0.00426808699929
+148 d
+	analytical:   0.205695824807
+	approximate:  0.20792
+	difference:   0.00222417519268
+149 d
+	analytical:   0.205006732377
+	approximate:  0.20834
+	difference:   0.00333326762346
+150 d
+	analytical:   0.204324519309
+	approximate:  0.20602
+	difference:   0.0016954806914
+151 d
+	analytical:   0.203649071897
+	approximate:  0.20558
+	difference:   0.00193092810278
+152 d
+	analytical:   0.20298027905
+	approximate:  0.20898
+	difference:   0.00599972095001
+153 d
+	analytical:   0.202318032212
+	approximate:  0.20704
+	difference:   0.00472196778838
+154 d
+	analytical:   0.20166222529
+	approximate:  0.20946
+	difference:   0.00779777471007
+155 d
+	analytical:   0.201012754584
+	approximate:  0.20418
+	difference:   0.00316724541555
+156 d
+	analytical:   0.200369518718
+	approximate:  0.2039
+	difference:   0.00353048128244
+157 d
+	analytical:   0.199732418568
+	approximate:  0.20472
+	difference:   0.00498758143201
+158 d
+	analytical:   0.199101357207
+	approximate:  0.20612
+	difference:   0.00701864279331
+159 d
+	analytical:   0.198476239835
+	approximate:  0.20256
+	difference:   0.00408376016514
+160 d
+	analytical:   0.197856973724
+	approximate:  0.20314
+	difference:   0.00528302627585
+161 d
+	analytical:   0.197243468159
+	approximate:  0.19886
+	difference:   0.00161653184114
+162 d
+	analytical:   0.19663563438
+	approximate:  0.20454
+	difference:   0.00790436561983
+163 d
+	analytical:   0.196033385532
+	approximate:  0.20284
+	difference:   0.00680661446788
+164 d
+	analytical:   0.19543663661
+	approximate:  0.20164
+	difference:   0.00620336339044
+165 d
+	analytical:   0.194845304408
+	approximate:  0.19904
+	difference:   0.00419469559231
+166 d
+	analytical:   0.194259307473
+	approximate:  0.19586
+	difference:   0.00160069252664
+167 d
+	analytical:   0.193678566058
+	approximate:  0.19742
+	difference:   0.00374143394206
+168 d
+	analytical:   0.193103002072
+	approximate:  0.1981
+	difference:   0.00499699792827
+169 d
+	analytical:   0.19253253904
+	approximate:  0.19624
+	difference:   0.00370746096016
+170 d
+	analytical:   0.19196710206
+	approximate:  0.19598
+	difference:   0.00401289794046
+171 d
+	analytical:   0.191406617759
+	approximate:  0.19612
+	difference:   0.00471338224109
+172 d
+	analytical:   0.190851014257
+	approximate:  0.19494
+	difference:   0.00408898574313
+173 d
+	analytical:   0.190300221124
+	approximate:  0.19254
+	difference:   0.00223977887553
+174 d
+	analytical:   0.189754169347
+	approximate:  0.19048
+	difference:   0.000725830652652
+175 d
+	analytical:   0.189212791289
+	approximate:  0.19224
+	difference:   0.00302720871053
+176 d
+	analytical:   0.188676020658
+	approximate:  0.19032
+	difference:   0.00164397934213
+177 d
+	analytical:   0.188143792469
+	approximate:  0.18906
+	difference:   0.000916207531376
+178 d
+	analytical:   0.187616043014
+	approximate:  0.19076
+	difference:   0.00314395698627
+179 d
+	analytical:   0.187092709829
+	approximate:  0.186
+	difference:   0.00109270982913
+180 d
+	analytical:   0.186573731664
+	approximate:  0.18894
+	difference:   0.00236626833635
+181 d
+	analytical:   0.186059048449
+	approximate:  0.19014
+	difference:   0.00408095155114
+182 d
+	analytical:   0.18554860127
+	approximate:  0.18936
+	difference:   0.0038113987301
+183 d
+	analytical:   0.185042332337
+	approximate:  0.19104
+	difference:   0.00599766766288
+184 d
+	analytical:   0.184540184959
+	approximate:  0.18924
+	difference:   0.00469981504135
+185 d
+	analytical:   0.184042103514
+	approximate:  0.18796
+	difference:   0.00391789648632
+186 d
+	analytical:   0.183548033427
+	approximate:  0.19052
+	difference:   0.00697196657339
+187 d
+	analytical:   0.183057921142
+	approximate:  0.18784
+	difference:   0.00478207885805
+188 d
+	analytical:   0.1825717141
+	approximate:  0.18492
+	difference:   0.00234828590013
+189 d
+	analytical:   0.182089360713
+	approximate:  0.1833
+	difference:   0.00121063928738
+190 d
+	analytical:   0.181610810341
+	approximate:  0.18442
+	difference:   0.00280918965855
+191 d
+	analytical:   0.181136013274
+	approximate:  0.1852
+	difference:   0.00406398672566
+192 d
+	analytical:   0.180664920704
+	approximate:  0.18468
+	difference:   0.00401507929574
+193 d
+	analytical:   0.180197484708
+	approximate:  0.1828
+	difference:   0.00260251529185
+194 d
+	analytical:   0.179733658226
+	approximate:  0.1818
+	difference:   0.0020663417736
+195 d
+	analytical:   0.179273395043
+	approximate:  0.18174
+	difference:   0.00246660495702
+196 d
+	analytical:   0.178816649766
+	approximate:  0.18292
+	difference:   0.00410335023394
+197 d
+	analytical:   0.178363377809
+	approximate:  0.18082
+	difference:   0.00245662219074
+198 d
+	analytical:   0.177913535373
+	approximate:  0.18286
+	difference:   0.00494646462669
+199 d
+	analytical:   0.177467079428
+	approximate:  0.18306
+	difference:   0.00559292057169
+200 d
+	analytical:   0.177023967696
+	approximate:  0.17862
+	difference:   0.00159603230356
+
+compute V_sph(4) = V_sph(1) * Q(2) * Q(3) * Q(4)
+	approximate:  5.07462650248
+	analytical:   4.93480220054
+	difference:   0.139824301938
+
+compute V_sph(200) = V_sph(1) * Q(2) * Q(3) * Q(4) * ... * Q(200)
+	approximate:  8.95603450507e-108
+	analytical:   5.55883284203e-109
+	difference:   8.40015122086e-108
