@@ -9,7 +9,7 @@ def psi_a(x, L, n):
     return math.sqrt(2.0 / L) * math.sin(2.0 * n * math.pi * x / L)
 
 ntot = 21     # odd number
-beta = 1.0
+beta = 0.001
 nx = 100
 L = 10.0
 x = [i * L / float(nx - 1) for i in range(nx)]
