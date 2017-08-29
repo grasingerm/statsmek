@@ -23,7 +23,7 @@ def weight(x):
 
 beta = 20.0
 N = 100
-Ncut = N / 4
+Ncut = 15
 dtau = beta / N
 delta = 1.0
 n_steps = 10000000
