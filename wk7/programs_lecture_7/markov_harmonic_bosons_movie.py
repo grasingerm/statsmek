@@ -36,9 +36,12 @@ for step in range(nsteps):
     while True:
         perm_cycle.append(boson_a)
         boson_b = positions.pop(boson_a)
+#        print perm_cycle, ", ", boson_a, ", ", boson_b
         if boson_b == perm_cycle[0]: break
         else: boson_a = boson_b
     k = len(perm_cycle)
+#    print k, ", ", perm_cycle
+    print k
     perm_cycle = levy_harmonic_path(k, beta)
     positions[perm_cycle[-1]] = perm_cycle[0]
     for j in range(len(perm_cycle) - 1):
