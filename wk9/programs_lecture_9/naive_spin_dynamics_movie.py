@@ -25,7 +25,7 @@ def snapshot(state, T, t):
 h = 1.0
 T = 3.
 p = math.exp(- 2.0 * h / T)
-tmax = 10
+tmax = 100
 sigma = 1
 for t in range(tmax):
     print t
